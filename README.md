@@ -1,3 +1,3 @@
 # Java-Assignments-Projects
-Java homeworks and my own projects aswell.
+Java concepts and thought process' in practice.
 
