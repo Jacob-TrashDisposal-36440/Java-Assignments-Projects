@@ -1,2 +1,2 @@
 # Java-Assignments-Projects
-Java Homeworks and my own projects aswell
+Java homeworks and my own projects aswell
